@@ -5,8 +5,9 @@ Claremont Colleges Library Python Working Group documentation and resources
 
 This readme file will have basic instructions for how to use the materials and resources in this repository.
 
-## Authors
+## Agendas
 
+Working group agendas are organized by date. Working group members edit the agendas (in markdown) via GitHub commits.
 
 ## License
 
