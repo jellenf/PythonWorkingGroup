@@ -10,6 +10,6 @@
 
 
 ## Resources
-[Anaconda distribution for Windows](https://www.anaconda.com/distribution/)
-[Installing Anaconda for Windows (how-to)](https://problemsolvingwithpython.com/01-Orientation/01.03-Installing-Anaconda-on-Windows/)
-[Share you favorite Python learning links (Google sheet)](https://docs.google.com/spreadsheets/d/1iM_XighfuNQrdIOZAbvrVRCoHBHV-DWBAjNiMHoVnuY/edit?usp=sharing)
+..[Anaconda distribution for Windows](https://www.anaconda.com/distribution/)
+..[Installing Anaconda for Windows (how-to)](https://problemsolvingwithpython.com/01-Orientation/01.03-Installing-Anaconda-on-Windows/)
+..[Share you favorite Python learning links (Google sheet)](https://docs.google.com/spreadsheets/d/1iM_XighfuNQrdIOZAbvrVRCoHBHV-DWBAjNiMHoVnuY/edit?usp=sharing)
